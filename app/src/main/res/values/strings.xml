@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Excercise1</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_request_address">Request URL:</string>
+    <string name="reqest_address">http://www.mobica.com/</string>
+    <string name="response_OK">SUCCESS</string>
+    <string name="response_FAIL">FAILURE</string>
+    <string name="loading_message">Sending request...</string>
+    <string name="button_test_text">TEST</string>
+    <string name="response_ERROR">Error! Check internet connection.</string>
+
+</resources>
